@@ -33,8 +33,8 @@ The AI uses sophisticated algorithms to make optimal moves:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-ai.git
-cd tic-tac-toe-ai
+git clone https://github.com/Sandraiffa1/tik-toe/tree/main
+cd tik-toe
 ```
 
 2. Run the game:
@@ -114,7 +114,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 - Performance improvements
 - New features
 - Documentation enhancements
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
